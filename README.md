@@ -1,9 +1,5 @@
-### Hi there 👋
 
-
-**jahid777/jahid777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Hi I'm Md. Jahidul Islam **
 
 💻 I'm a Full-stack Web Developer with ReactJS, NextJs and Node.js.
 ❤️ I love to code, learning new things related to Software Engineering.
