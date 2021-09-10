@@ -10,26 +10,31 @@
  📫 How to reach me: --- za0162hid@gmail.com  
  🌷 Enjoying coding lifestyle and learning new things related to frontend, backend, software engineering.  
 
-
-
 </br>
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jahid777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-jahidul-islam-9578941a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zahid.hassain.51/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://web-portfolio-jahid.netlify.app/) 
 
-
-
+</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahid777)](https://github.com/ryo-ma/github-profile-trophy)
 
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid777)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahid777&show_icons=true)  
 
+</br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahid777)  
 
+</br>
+
 ![GitHub metrics](https://metrics.lecoq.io/jahid777)  
+
+</br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jahid777)  
 
