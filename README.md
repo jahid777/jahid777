@@ -1,7 +1,7 @@
 # Hi 👋, I'm MD. JAHIDUL ISLAM
 
 <p align="center">
-  <img src="https://i.ibb.co.com/PvhNpQnk/Linkdin-Banner.png" alt="Md Jahidul Islam Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dtixzwuqt/image/upload/v1792343190/WEB_DEVELOPER_MD_JAHIDUL_ISLAM_lg53rm.png" alt="Md Jahidul Islam Banner" width="100%" />
 </p>
 
 ### Full-Stack Web Developer | MERN Stack | SEO & Performance Optimization
