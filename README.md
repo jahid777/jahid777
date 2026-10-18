@@ -1,40 +1,38 @@
+# Hi 👋, I'm DEMO 
 
-### Hi I'm Md. Jahidul Islam 
+<p align="center">
+  <img src="https://res.cloudinary.com/dtixzwuqt/image/upload/v1792343190/WEB_DEVELOPER_MD_JAHIDUL_ISLAM_lg53rm.png" alt="Sharifa Banner" width="100%" />
+</p>
 
- 💻 I'm a Full-stack Web Developer with ReactJS, NextJs and Node.js.  
- ❤️ I love to code, learning new things related to Software Engineering.  
- 🔌 My GOAL: work as a professional Software Engineer in a vibrant Tech company.  
- 📚 Learning software engineering, self driven, hard working and friendly.😃  
- 👯 I am open to collaborate with other digital content creators.  
- 💬 Ask me about --- Anything   
- 📫 How to reach me: --- za0162hid@gmail.com  
- 🌷 Enjoying coding lifestyle and learning new things related to frontend, backend, software engineering.  
+### Full-Stack Developer | Passionate about Performance, Security, and Scalable Backend Systems
 
-</br>
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jahid777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-jahidul-islam-9578941a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zahid.hassain.51/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://web-portfolio-jahid.netlify.app/) 
+## 💫 About Me:
+- 🔭 I’m currently working on **React.js, Next.js, and TypeScript** for frontend development.
+- 🤝 I’m proficient in **Node.js, Express.js, MongoDB, and Prisma** for backend systems.
+- 🌱 I’m currently learning **Docker, AWS, and Advanced System Design**.
+- 💬 Ask me about **Web Scalability, UI/UX, and SaaS platforms**.
+- ⚡ Fun fact: **I love exploring Bioinformatics and Clean Coding**.
 
-</br>
+## 🚀 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,prisma,aws,postgresql,github,docker,figma" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahid777)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+## 📬 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharifa-akhter-dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
+</a>
+<a href="mailto:sr0589071@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
+</a>
+</p>
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid777)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahid777&show_icons=true)  
-
-</br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahid777)  
-
-</br>
-
-![GitHub metrics](https://metrics.lecoq.io/jahid777)  
-
-</br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jahid777)  
-
+---
